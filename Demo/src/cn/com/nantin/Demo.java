@@ -2,6 +2,7 @@ package cn.com.nantin;
 
 public class Demo {
 public static void main(String[] args) {
-	System.out.println("Á·Ï°Ò»ÏÂ");
+	System.out.println("ï¿½ï¿½Ï°Ò»ï¿½ï¿½");
+	System.out.println("ä¿®æ”¹å•¦");
 }
 }
