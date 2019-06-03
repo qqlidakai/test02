@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/branch_1.0.14/csbps-access-app/csbps-access-app.iml" filepath="D:/branch_1.0.14/csbps-access-app/csbps-access-app.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-auth/csbps-auth.iml" filepath="D:/branch_1.0.14/csbps-auth/csbps-auth.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-batch-app/csbps-batch-app.iml" filepath="D:/branch_1.0.14/csbps-batch-app/csbps-batch-app.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-db/csbps-db.iml" filepath="D:/branch_1.0.14/csbps-db/csbps-db.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-mobile-app/csbps-mobile-app.iml" filepath="D:/branch_1.0.14/csbps-mobile-app/csbps-mobile-app.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-model/csbps-model.iml" filepath="D:/branch_1.0.14/csbps-model/csbps-model.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-parent.iml" filepath="D:/branch_1.0.14/csbps-parent.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-service-api/csbps-service-api.iml" filepath="D:/branch_1.0.14/csbps-service-api/csbps-service-api.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-service-app/csbps-service-app.iml" filepath="D:/branch_1.0.14/csbps-service-app/csbps-service-app.iml" />
+      <module fileurl="file://D:/branch_1.0.14/csbps-web-app/csbps-web-app.iml" filepath="D:/branch_1.0.14/csbps-web-app/csbps-web-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test02.iml" filepath="$PROJECT_DIR$/.idea/test02.iml" />
     </modules>
   </component>
